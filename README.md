@@ -1,30 +1,42 @@
 <div align="center">
 
-<img src="./assets/assets/e36304f2fd43b98e0407a65448112bc6.jpg" width="100%">
+<img src="./assets/assets/assets/e36304f2fd43b98e0407a65448112bc6.jpg" width="100%">
 
 </div>
 <h1 align="center">
-Hi 👋 I'm Samridhi Sharma
+Know About ME
 </h1>
 
+
+<table>
+<tr>
+<td width="60%">
+
 <h3 align="center">
-AI & Machine Learning Enthusiast | Full Stack Developer
+Hey there! I'm Samridhi Sharma 👋
 </h3>
 
-
 <p align="center">
-Building AI-powered applications and solving real-world problems through technology 🚀
+Hi, I'm <b>Samridhi Sharma</b>, a Computer Science Engineering student specializing in 
+<b>Artificial Intelligence & Machine Learning</b>. I am passionate about building AI-powered 
+solutions, full-stack applications, and exploring emerging technologies.
 </p>
-<p align="center">
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=shokinw&label=Profile%20Views&color=ff69b4"/>
-
 <img src="https://img.shields.io/github/followers/shokinw?label=Followers"/>
-
 <img src="https://img.shields.io/github/stars/shokinw?label=Stars"/>
-
 </p>
 
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://assets/image-removebg-preview (4).png" width="300"/>
+
+</td>
+</tr>
+</table>
 ## 🌱 About Me
 
 
@@ -55,7 +67,7 @@ I love turning ideas into real working projects 🚀
 </a>
 
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:samridhivvv221@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
