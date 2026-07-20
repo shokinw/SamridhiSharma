@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/image-removebg-preview (1).png" width="100%">
+<img src="./assets/assets/e36304f2fd43b98e0407a65448112bc6.jpg" width="100%">
 
 </div>
 <h1 align="center">
